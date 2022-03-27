@@ -16,6 +16,7 @@ I like programming, I want to discover a new direction in programming (Front-End
 * CSS
 * JavaScript (Basic)
 * Git (Basic)
+
 ## Sample code
 *arithmetic mean of the array elements*
 ```
@@ -27,12 +28,14 @@ I like programming, I want to discover a new direction in programming (Front-End
     var result = sum / arr.length;
     alert(result);
 ```
+
 ## Work experiences
 * Educational projects:
     * Landing page photographer's portfolio (HTML, CSS, JavaScript, FlexBox) - [Portfolio](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/portfolio/)
     * Custom video player (HTML, CSS, JavaScript, FlexBox) - [Video player](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/custom-video/)
     * Image gallery (HTML, CSS, JavaScript, FlexBox) - [Image gallery](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/image-galery/)
     * Memory game app (HTML, CSS, JavaScript, FlexBox) - [Memory-game](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/memory-game/)
+
 ## Education, completed courses and trainings
 [**Gomel State Technical University named after P.O. Sukhoi**](https://www.gstu.by/)\
 [Faculty of Automated and Information Systems](https://fais.gstu.by/)\
@@ -44,5 +47,6 @@ Information technology engineer\
 1. Complete HTML, CSS and JavaScrip courses on [HTMLAcademy](https://htmlacademy.ru)
 2. Complete HTML, CSS and JavaScrip courses on [FructCode](https://fructcode.com/ru)
 3. Complete HTML, CSS and JavaScrip courses from The Rolling Scopes community "JS/Frontend development. Preparatory stage" ([RSSchool](https://rs.school/js/) - [certificate](https://app.rs.school/certificate/ad19zlyi))
+
 ## English
 **A2. Pre-Intremediate** (I studied the language at school and at the university, I want to improve my level of English) - [EPAM Training Center](https://www.training.by/#!/Home?lang=ru)
