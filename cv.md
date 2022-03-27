@@ -1,4 +1,5 @@
 # Kirill Bobylev
+![My foto](my-foto.jpg)
 ## Contacts
 *Location:* Minsk, Belarus\
 *Phone:* +375 (29) 539-47-73\
