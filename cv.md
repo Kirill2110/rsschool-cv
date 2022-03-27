@@ -38,7 +38,8 @@ I like programming, I want to discover a new direction in programming (Front-End
 [Faculty of Automated and Information Systems](https://fais.gstu.by/)\
 Information technology and management in technical systems\
 Information technology engineer\
-*2015-2019*\
+*2015-2019*
+
 **Self-education**:
 1. Complete HTML, CSS and JavaScrip courses on [HTMLAcademy](https://htmlacademy.ru)
 2. Complete HTML, CSS and JavaScrip courses on [FructCode](https://fructcode.com/ru)
