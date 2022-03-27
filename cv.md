@@ -26,3 +26,9 @@ I like programming, I want to discover a new direction in programming (Front-End
     var result = sum / arr.length;
     alert(result);
 ```
+## Work experiences
+* Educational projects:
+    * Landing page photographer's portfolio (HTML, CSS, JavaScript, FlexBox) - [Portfolio](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/portfolio/)
+    * Custom video player (HTML, CSS, JavaScript, FlexBox) - [Video player](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/custom-video/)
+    * Image gallery (HTML, CSS, JavaScript, FlexBox) - [Image gallery](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/image-galery/)
+    * Memory game app (HTML, CSS, JavaScript, FlexBox) - [Memory-game](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/memory-game/)
