@@ -32,3 +32,13 @@ I like programming, I want to discover a new direction in programming (Front-End
     * Custom video player (HTML, CSS, JavaScript, FlexBox) - [Video player](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/custom-video/)
     * Image gallery (HTML, CSS, JavaScript, FlexBox) - [Image gallery](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/image-galery/)
     * Memory game app (HTML, CSS, JavaScript, FlexBox) - [Memory-game](https://rolling-scopes-school.github.io/kirill2110-JSFEPRESCHOOL/memory-game/)
+## Education, completed courses and trainings
+[**Gomel State Technical University named after P.O. Sukhoi**](https://www.gstu.by/)\
+[Faculty of Automated and Information Systems](https://fais.gstu.by/)\
+Information technology and management in technical systems\
+Information technology engineer\
+*2015-2019*
+**Self-education**:
+1. Complete HTML, CSS and JavaScrip courses on [HTMLAcademy](https://htmlacademy.ru)
+2. Complete HTML, CSS and JavaScrip courses on [FructCode](https://fructcode.com/ru)
+3. Complete HTML, CSS and JavaScrip courses from The Rolling Scopes community "JS/Frontend development. Preparatory stage" ([RSSchool](https://rs.school/js/) - [certificate](https://app.rs.school/certificate/ad19zlyi))
