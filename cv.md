@@ -42,3 +42,5 @@ Information technology engineer\
 1. Complete HTML, CSS and JavaScrip courses on [HTMLAcademy](https://htmlacademy.ru)
 2. Complete HTML, CSS and JavaScrip courses on [FructCode](https://fructcode.com/ru)
 3. Complete HTML, CSS and JavaScrip courses from The Rolling Scopes community "JS/Frontend development. Preparatory stage" ([RSSchool](https://rs.school/js/) - [certificate](https://app.rs.school/certificate/ad19zlyi))
+## English
+**A2. Pre-Intremediate** (I studied the language at school and at the university, I want to improve my level of English) - [EPAM Training Center](https://www.training.by/#!/Home?lang=ru)
