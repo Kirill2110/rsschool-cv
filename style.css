@@ -17,19 +17,40 @@ body {
 	background-color: #F9F9F9;
 }
 
+.main {
+	letter-spacing: 0.8px;
+}
+
 .main-container {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 
 .section {
-	width: 50%;
+	width: 47.5%;
 }
 
 @media (max-width: 768px) {
 	.section {
 		width: 100%;
 	}
+}
+
+h1 {
+	font-family: 'Quattrocento', serif;
+}
+
+h2 {
+	font-family: 'Quattrocento', serif;
+}
+
+h1 {
+	letter-spacing: 7px;
+}
+
+p, li {
+	font-family: 'Quicksand', sans-serif;
 }
 
 /*------------------------- NAV PANEL -------------------------*/
@@ -68,19 +89,59 @@ body {
 
 #profile .title {
 	width: 390px;
+	color: #fff;
 }
 
-#profile h1 {
+#profile .title h1 {
 	font-size: 60px;
-	color: #fff;
 	margin-bottom: 100px;
 }
 
-#profile .title {
+#profile .title p {
 	font-size: 30px;
-	color: #fff;
 }
 
 #profile img {
 	border-radius: 50%;
+}
+
+/*------------------------- SECTION SUMMARY -------------------------*/
+
+#summary {
+	margin-top: 45px;
+	padding-left: 45px;
+	padding-right: 30px;
+	box-sizing: border-box;
+}
+
+#summary p {
+	text-align: justify;
+}
+
+/*------------------------- SECTION SKILLS -------------------------*/
+
+#skills {
+	padding-left: 45px;
+	padding-right: 30px;
+	box-sizing: border-box;
+}
+
+/*------------------------- SECTION CONTACTS -------------------------*/
+
+#contacts {
+	padding-left: 45px;
+	padding-right: 30px;
+	box-sizing: border-box;
+}
+
+/*------------------------- SECTION LEVEL LANGUAGE -------------------------*/
+
+.main-container .section:last-child {
+	width: 95%;
+}
+
+/*------------------------- FOOTER -------------------------*/
+
+.footer .container {
+	width: 95%;
 }
