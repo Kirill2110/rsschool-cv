@@ -39,14 +39,11 @@ body {
 
 h1 {
 	font-family: 'Quattrocento', serif;
+	letter-spacing: 7px;
 }
 
 h2 {
 	font-family: 'Quattrocento', serif;
-}
-
-h1 {
-	letter-spacing: 7px;
 }
 
 p, li {
@@ -55,10 +52,14 @@ p, li {
 
 /*------------------------- NAV PANEL -------------------------*/
 
+.nav {
+	display: flex;
+	justify-content: center;
+}
+
 .nav-list {
 	display: flex;
 	justify-content: flex-end;
-	align-items: center;
 	list-style: none;
 	padding: 0;
 	margin: 0;
@@ -67,13 +68,14 @@ p, li {
 
 .nav-link {
 	padding: 15px;
-	line-height: 50px;
+	line-height: 5	0px;
 	text-decoration: none;
 	transition: color 0.5s;
 }
 
 .nav-link:hover {
 	color: red;
+	box-shadow: 0px 5px 10px 10px rgba(34, 60, 80, 0.2);
 }
 
 /*------------------------- SECTION PROFILE -------------------------*/
@@ -131,13 +133,38 @@ p, li {
 #contacts {
 	padding-left: 45px;
 	padding-right: 30px;
+	height: 300px;
 	box-sizing: border-box;
+}
+
+.contacts-table {
+	display: flex;
+}
+
+.icons-table {
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: column;
+	margin-right: 15px;
+}
+
+.contacts-table img {
+	width: 20px;
+	height: 20px;
+}
+
+/*------------------------- SECTION EXPERIENCES -------------------------*/
+
+#experiences {
+	margin-top: 45px;
+	padding-right: 30px;
+	box-sizing: border-box;
+	background-color: #d1c3c9;
 }
 
 /*------------------------- SECTION LEVEL LANGUAGE -------------------------*/
 
-.main-container .section:last-child {
-	width: 95%;
+#languages {
 }
 
 /*------------------------- FOOTER -------------------------*/
