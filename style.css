@@ -103,12 +103,14 @@ p, li {
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
 	padding: 35px 0;
 	background-color: #555353;
 }
 
 #profile .title {
 	width: 390px;
+	margin-left: 20px;
 	color: #fff;
 }
 
@@ -125,6 +127,46 @@ p, li {
 	border-radius: 50%;
 }
 
+@media (max-width: 860px) {
+	#profile img {
+		transform: scale(0.8);
+	}
+
+	#profile .title h1 {
+		margin-bottom: 70px;
+	}
+
+	#profile .title p {
+		font-size: 25px;
+	}
+}
+
+@media (max-width: 680px) {
+	.nav-list {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.nav-link {
+		line-height: 30px;
+		padding: 0 10px 0 10px;
+	}
+
+	.main-container .section:first-child {
+		flex-direction: column;
+		text-align: center;
+	}
+
+	#profile .title {
+		margin-left: 0;
+	}
+
+	#profile .title h1 {
+		font-size: 55px;
+		margin-bottom: 10px;
+	}
+}
+
 /*------------------------- SECTION SUMMARY -------------------------*/
 
 #summary {
@@ -138,12 +180,27 @@ p, li {
 	text-align: justify;
 }
 
+@media (max-width: 768px) {
+	#summary {
+		margin-top: 0;
+	}
+}
+
 /*------------------------- SECTION SKILLS -------------------------*/
 
 #skills {
 	padding-left: 45px;
 	padding-right: 30px;
 	box-sizing: border-box;
+}
+
+/*------------------------- SECTION CODE -------------------------*/
+
+@media (max-width: 768px) {
+	#code {
+		padding-left: 45px;
+		padding-right: 30px;
+	}
 }
 
 /*------------------------- SECTION CONTACTS -------------------------*/
@@ -171,12 +228,29 @@ p, li {
 	height: 20px;
 }
 
+/*------------------------- SECTION EDUCATION, COURSES, TRAININGS, SELF-EDUCATION -------------------------*/
+
+@media (max-width: 768px) {
+	#education {
+		padding-left: 45px;
+		padding-right: 30px;
+	}
+}
+
 /*------------------------- SECTION EXPERIENCES -------------------------*/
 
 #experiences {
 	margin-top: 45px;
 	padding-right: 30px;
 	box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+	#experiences {
+		padding-left: 45px;
+		padding-right: 30px;
+		margin-top: 0;
+	}
 }
 
 /*------------------------- SECTION LEVEL LANGUAGE -------------------------*/
@@ -187,6 +261,12 @@ p, li {
 	padding-right: 30px;
 	box-sizing: border-box;
 	padding-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+	.main-container .section:last-child {
+		width: 100%;
+	}
 }
 
 /*------------------------- FOOTER -------------------------*/
@@ -206,7 +286,6 @@ p, li {
 
 .footer .container-footer .github-logo {
 	width: 50px;
-	margin-left: 35px;
 }
 
 .footer .container-footer p {
@@ -216,6 +295,5 @@ p, li {
 
 .footer .container-footer .rs-logo {
 	width: 120px;
-	margin-right: 35px;
 }
 
