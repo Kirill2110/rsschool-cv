@@ -11,6 +11,12 @@ body {
 	justify-content: space-between;
 }
 
+@media (max-width: 320px) {
+	body {
+		margin: 0 auto;
+	}
+}
+
 .container {
 	max-width: 980px;
 	margin: 0 auto;
@@ -182,6 +188,7 @@ p, li {
 
 @media (max-width: 768px) {
 	#summary {
+		padding-left: 35px;
 		margin-top: 0;
 	}
 }
@@ -194,12 +201,23 @@ p, li {
 	box-sizing: border-box;
 }
 
+@media (max-width: 768px) {
+	#skills {
+		padding-left: 35px;
+		padding-right: 30px;
+	}
+}
+
 /*------------------------- SECTION CODE -------------------------*/
 
 @media (max-width: 768px) {
 	#code {
-		padding-left: 45px;
+		padding-left: 35px;
 		padding-right: 30px;
+	}
+
+	#code code {
+
 	}
 }
 
@@ -211,6 +229,14 @@ p, li {
 	height: 300px;
 	box-sizing: border-box;
 }
+
+@media (max-width: 768px) {
+	#contacts {
+		padding-left: 35px;
+		padding-right: 30px;
+	}
+}
+
 
 .contacts-table {
 	display: flex;
@@ -232,7 +258,7 @@ p, li {
 
 @media (max-width: 768px) {
 	#education {
-		padding-left: 45px;
+		padding-left: 35px;
 		padding-right: 30px;
 	}
 }
@@ -247,7 +273,7 @@ p, li {
 
 @media (max-width: 768px) {
 	#experiences {
-		padding-left: 45px;
+		padding-left: 35px;
 		padding-right: 30px;
 		margin-top: 0;
 	}
@@ -266,6 +292,7 @@ p, li {
 @media (max-width: 768px) {
 	.main-container .section:last-child {
 		width: 100%;
+		padding-left: 35px;
 	}
 }
 
